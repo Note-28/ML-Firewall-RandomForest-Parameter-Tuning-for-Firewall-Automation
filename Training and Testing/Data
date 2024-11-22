@@ -1,10 +1,3 @@
 Testing and Training Data:
-
-Training:
-https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0Q8REN/UNSW_NB15_training-set.csv
-Save as:
-UNSW_NB15_training-set.csv
-
-Testing:
-https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0Q8REN/UNSW_NB15_testing-set.csv
-Save as: UNSW_NB15_testing-set.csv
+Dowload Data from:
+https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx
